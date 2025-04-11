@@ -1,0 +1,3 @@
+[submodule "src/my_bot"]
+	path = src/my_bot
+	url = https://github.com/louaysahbani/my_bot.git
